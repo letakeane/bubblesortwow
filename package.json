@@ -1,0 +1,22 @@
+{
+  "name": "@letakeane/bubblesortwow",
+  "version": "1.0.0",
+  "description": "Bubble sort",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "keywords": [
+    "bubble",
+    "sort"
+  ],
+  "author": "Leta Keane",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
